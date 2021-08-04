@@ -1,7 +1,7 @@
 import socket
 
-host = "4.tcp.ngrok.io"
-port = 12850
+host = "serve host"
+port = 0000#port serve
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 list = (host, port)
